@@ -1,12 +1,11 @@
 {
-	"copyright": "authifyWeb https://github.com/authifyWeb",
-  "source":[
-  {
-  "name": "",
-  "urls": ""
-		
+"copyright": "authifyWeb https://github.com/authifyWeb",
+"source":[
+{
+"name": "Internet Freedom Foundation",
+"urls": ["https://internetfreedom.in/","https://saveourprivacy.in/","https://savetheinternet.in/","https://patrakardefence.in/","https://panoptic.in/","https://twitter.com/internetfreedom","https://lnk.bio/internetfreedom" ]
+}
 	
-  }
-  ]
-  }
+]
+}
             
