@@ -1,7 +1,7 @@
 <h3>authifyURL Database is the data source used by <a href ="https://authifyweb.github.io/authifyURL/"> authifyURL</a> and <a href ="https://github.com/authifyWeb/authifyNow"> authifyNow</a> extensions.</h3> 
 
 All the data is open and transparent for anyone to verify. 
-Please do not scrap this repo 
+Please do not scrape this repo 
 ## <ins>Quick Links</ins>
 
 
