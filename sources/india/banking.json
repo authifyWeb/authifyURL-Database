@@ -78,5 +78,54 @@
   {
   "name": "IDBI Bank",
   "urls": ["www.idbibank.in","idbibank.in","inet.idbibank.co.in","corp.idbibank.co.in","samriddhigsec.idbibank.co.in","idbicreditcards.co.in","clms.idbibank.co.in","secureonline.idbibank.com","apps.idbibank.in","idbiapps.idbibank.com","otsapplication.idbibank.com","webapps.idbibank.co.in","inetapps.idbibank.co.in","twitter.com/IDBI_Bank","twitter.com/IDBIBankCares"]
+  },
+  {
+  "name": "Bank of Baroda",
+  "urls": ["bankofbaroda.co.in","www.bankofbaroda.in","bankofbaroda.in","ifsc.bankofbaroda.in","twitter.com/bankofbaroda","bobcrm.bankofbaroda.co.in","tabit.bankofbaroda.com","bankofbaroda.com","dil.bankofbaroda.in","www.bobworld.com","bobworld.com","apps.bobinside.com"]
+  },
+  {
+  "name": "Bank of India",
+  "urls": ["www.bankofindia.co.in","bankofindia.co.in","uat.corp.bankofindiaweb.com","boiweb.bankofindia.co.in","twitter.com/BankofIndia_IN"]
+  },
+  {
+  "name": "Bank of Maharashtra",
+  "urls": ["bankofmaharashtra.in","www.bankofmaharashtra.in","www.mahaconnect.in","mahaconnect.in","www.bomloans.com","bomloans.com","digiloans.bankofmaharashtra.in","twitter.com/mahabank","onlinebanking.bankofmaharashtra.in","reward.bankofmaharashtra.in","bomsurvey.com","branch-atm-locator.bankofmaharashtra.in"]
+  },
+  {
+  "name": "Canara Bank",
+  "urls": ["canarabank.com","www.canarabank.com","canaramsme.in","www.canaramsme.in","canarabankcsis.in","www.canarabankcsis.in","odr.canarabank.com","online.canarabank.in","canmoneyonline.com","www.canmoneyonline.com","ccapp.canarabank.in","canepaycustoms.canarabank.in","twitter.com/canarabank"]
+  },
+  {
+  "name": "Central Bank of India",
+  "urls": ["centralbankofindia.co.in","www.centralbankofindia.co.in","twitter.com/centralbank_in","centralbank.net.in","www.centralbank.net.in","vkyc.centralbank.co.in"]
+  },
+  {
+  "name": "Indian Bank",
+  "urls": ["indianbank.in","www.indianbank.in","apps.indianbank.in","onlinellms.indianbank.in","indadvantage.com","www.indadvantage.com","twitter.com/myindianbank"]
+  },
+  {
+  "name": "Indian Overseas Bank",
+  "urls": ["www.iob.in","iob.in","www.iobnet.co.in","vkyc.iob.in","twitter.com/iobindia"]
+  },
+  {
+  "name": "Punjab & Sind Bank",
+  "urls": ["punjabandsindbank.co.in","www.punjabandsindbank.co.in","twitter.com/PSBIndOfficial"]
+  },
+  {
+  "name": "Punjab National Bank",
+  "urls": ["www.pnbindia.in","pnbindia.in","pnbcard.in","www.pnbcard.in","apply.pnbcard.in","gateway.pnbibanking.in","pnbibanking.in","www.pnbibanking.in","www.netpnb.com","netpnb.com","twitter.com/pnbindia","weblens.pnb.in","instaloans.pnbindia.in","eots.mypnb.in","onlinesb.pnbindia.in"]
+  },
+  {
+  "name": "State Bank of India",
+  "urls": ["www.sbi.co.in","sbi.co.in","mobilityretail.sbi","retail.onlinesbi.sbi","homeloans.sbi","onlinesbi.sbi","www.onlinesbi.sbi","bank.sbi","twitter.com/TheOfficialSBI"]
+  },
+  {
+  "name": "UCO Bank",
+  "urls": ["www.ucobank.com","ucobank.com","smartpay.ucoonline.in","twitter.com/UCOBankOfficial"]
+  },
+  {
+  "name": "Union Bank of India",
+  "urls": ["www.unionbankonline.co.in","unionbankonline.co.in","twitter.com/UnionBankTweets"]
   }
+  
 ]
