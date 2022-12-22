@@ -2,5 +2,81 @@
   {
   "name": "Axis Bank",
   "urls": ["www.axisbank.com","axisbank.com","omni.axisbank.co.in","application.axisbank.co.in","digiserv.axisbank.com","branch.axisbank.com","grabdeals.axisbank.com","twitter.com/AxisBank" ]
+  },
+  {
+  "name": "Bandhan Bank",
+  "urls": ["www.bandhanbank.com","bandhanbank.com","corporate.bandhanbank.com","sweb.gruh.com","gruh.com","www.gruh.com","twitter.com/bandhanbank_in" ]
+  },
+  {
+  "name": "CSB Bank",
+  "urls": ["www.csb.co.in","csb.co.in","corpnet.csb.co.in","www.csbnet.co.in","csbnet.co.in"]
+  },
+  {
+  "name": "City Union Bank",
+  "urls": ["www.cityunionbank.com","cubltd.cityunionbank.in","cityunionbank.com"]
+  },
+  {
+  "name": "DCB Bank",
+  "urls": ["www.dcbbank.com","dcbbank.com","pib.dcbbank.com","edvportal.dcbbank.com","eazybee.dcbbank.com","genesis.dcbbank.com","twitter.com/DCBBank"]
+  },
+  {
+  "name": "Dhanlaxmi Bank",
+  "urls": ["www.dhanbank.com","dhanbank.com","netbank.dhanbank.in"]
+  },
+  {
+  "name": "Federal Bank",
+  "urls": ["www.federalbank.co.in","federalbank.co.in","fednetbank.com","www.fednetbank.com","fedebiz.federalbank.co.in","federemit.federalbank.co.in","fedcorp.federalbank.co.in","epay.federalbank.co.in","payments.federalbank.co.in","netcfastag.federalbank.co.in","accountopen.federalbank.co.in","portal.federalbank.co.in"]
+  },
+  {
+  "name": "HDFC Bank",
+  "urls": ["www.hdfcbank.com","hdfcbank.com","v.hdfcbank.com","applyonline.hdfcbank.com","apply.hdfcbank.com","leads.hdfcbank.com","applycarloan.hdfcbank.com","offers.smartbuy.hdfcbank.com","twitter.com/Hdfc_Bank","netbanking.hdfcbank.com"]
+  },
+  {
+  "name": "ICICI Bank",
+  "urls": ["www.icicibank.com","icicibank.com","buy.icicibank.com","loans.icicibank.com","infinity.icicibank.com","nli.icicibank.com","loan.icicibank.com","twitter.com/ICICIBank_Care","twitter.com/ICICIBank"]
+  },
+  {
+  "name": "IndusInd Bank",
+  "urls": ["www.indusind.com","indusind.com","bank.indusind.com","induseasywheels.indusind.com","myaccount.indusind.com","cfddealer.indusind.com","twitter.com/myindusindbank" ]
+  },
+  {
+  "name": "Jammu and Kashmir Bank",
+  "urls": ["www.jkbank.com", "www.jkbankonline.com", "jkbankonline.com", "jkbank.com", "eapp.jkbank.com", "ecollect.jkbank.com", "twitter.com/JandKBank" ]
+  },
+  {
+  "name": "Karnataka Bank",
+  "urls": [ "karnatakabank.com", "vcip.ktkbank.com", "m.ktkbank.com", "econnect.ktkbank.com", "digiloan.ktkbank.com", "twitter.com/karnatakabank" ]
+  },
+  {
+  "name": "Karur Vyasa Bank",
+  "urls": ["www.kvb.co.in", "kvb.co.in", "www.karurvysyabank.co.in", "prepaid.kvb.co.in", "www.kvbankonline.com", "twitter.com/KarurVysyaBank_", "kvbprepaid.enstage.com", "odr.kvb.co.in", "www.kvbsmart.in"]
+  },
+  {
+  "name": "Kotak Mahindra Bank",
+  "urls": ["www.kotak.com", "kapps.kotak.com","kotak.com", "kotakfastag.in", "twitter.com/kotakbankltd", "twitter.com/KotakCares"]
+  },
+  {
+  "name": "Nainital Bank",
+  "urls": ["www.nainitalbank.co.in", "nainitalbank.co.in", "twitter.com/LtdNainital"]
+  },
+  {
+  "name": "RBL Bank",
+  "urls": ["www.rblbank.com", "rblbank.com", "abacus.rblbank.com","investment.rblbank.com", "insignia.rblbank.com", "isc.rblbank.com", "ir.rblbank.com", "blog.rblbank.com", "twitter.com/RBLBankCares", "twitter.com/rblbank"]
+  },
+  {
+  "name": "South Indian Bank",
+  "urls": ["southindianbank.com","www.southindianbank.com","twitter.com/OfficialSIBLtd","feebook.southindianbank.com","online.southindianbank.com","fastag.southindianbank.com"]
+  },
+  {
+  "name": "Tamilnad Mercantile Bank",
+  "urls": ["www.tmb.in","tmb.in","www.tmbnet.in","tmbnet.in","prepaid.tmbnet.in","www.tmbho.in","tmbho.in","twitter.com/tmbankltd" ]
+  },
+  {
+  "name": "Yes Bank",
+  "urls": ["www.yesbank.in","yesbank.in","campaignweb.yesbank.in","twitter.com/yesbank"]
+  },
+  {
+  "name": "IDBI Bank",
+  "urls": ["www.idbibank.in","idbibank.in","inet.idbibank.co.in","corp.idbibank.co.in","samriddhigsec.idbibank.co.in","idbicreditcards.co.in","clms.idbibank.co.in","secureonline.idbibank.com","apps.idbibank.in","idbiapps.idbibank.com","otsapplication.idbibank.com","webapps.idbibank.co.in","inetapps.idbibank.co.in","twitter.com/IDBI_Bank","twitter.com/IDBIBankCares"]
   }
 ]
