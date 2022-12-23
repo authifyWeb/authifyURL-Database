@@ -25,11 +25,11 @@
   },
   {
   "name": "Federal Bank",
-  "urls": ["www.federalbank.co.in","federalbank.co.in","fednetbank.com","www.fednetbank.com","fedebiz.federalbank.co.in","federemit.federalbank.co.in","fedcorp.federalbank.co.in","epay.federalbank.co.in","payments.federalbank.co.in","netcfastag.federalbank.co.in","accountopen.federalbank.co.in","portal.federalbank.co.in"]
+  "urls": ["www.federalbank.co.in","federalbank.co.in","fednetbank.com","www.fednetbank.com","fedebiz.federalbank.co.in","federemit.federalbank.co.in","fedcorp.federalbank.co.in","epay.federalbank.co.in","payments.federalbank.co.in","netcfastag.federalbank.co.in","accountopen.federalbank.co.in","portal.federalbank.co.in","twitter.com/FederalBankLtd","twitter.com/FederalBankHelp"]
   },
   {
   "name": "HDFC Bank",
-  "urls": ["www.hdfcbank.com","hdfcbank.com","v.hdfcbank.com","applyonline.hdfcbank.com","apply.hdfcbank.com","leads.hdfcbank.com","applycarloan.hdfcbank.com","offers.smartbuy.hdfcbank.com","twitter.com/Hdfc_Bank","netbanking.hdfcbank.com"]
+  "urls": ["www.hdfcbank.com","hdfcbank.com","v.hdfcbank.com","applyonline.hdfcbank.com","apply.hdfcbank.com","leads.hdfcbank.com","applycarloan.hdfcbank.com","offers.smartbuy.hdfcbank.com","twitter.com/Hdfc_Bank","netbanking.hdfcbank.com","HDFC_Bank"]
   },
   {
   "name": "ICICI Bank",
@@ -37,7 +37,7 @@
   },
   {
   "name": "IndusInd Bank",
-  "urls": ["www.indusind.com","indusind.com","bank.indusind.com","induseasywheels.indusind.com","myaccount.indusind.com","cfddealer.indusind.com","twitter.com/myindusindbank" ]
+  "urls": ["www.indusind.com","indusind.com","bank.indusind.com","induseasywheels.indusind.com","myaccount.indusind.com","cfddealer.indusind.com","twitter.com/MyIndusIndBank" ]
   },
   {
   "name": "Jammu and Kashmir Bank",
@@ -45,7 +45,7 @@
   },
   {
   "name": "Karnataka Bank",
-  "urls": [ "karnatakabank.com", "vcip.ktkbank.com", "m.ktkbank.com", "econnect.ktkbank.com", "digiloan.ktkbank.com", "twitter.com/karnatakabank" ]
+  "urls": [ "karnatakabank.com", "vcip.ktkbank.com", "m.ktkbank.com", "econnect.ktkbank.com", "digiloan.ktkbank.com", "twitter.com/KarnatakaBank" ]
   },
   {
   "name": "Karur Vyasa Bank",
@@ -53,7 +53,7 @@
   },
   {
   "name": "Kotak Mahindra Bank",
-  "urls": ["www.kotak.com", "kapps.kotak.com","kotak.com", "kotakfastag.in", "twitter.com/kotakbankltd", "twitter.com/KotakCares"]
+  "urls": ["www.kotak.com", "kapps.kotak.com","kotak.com", "kotakfastag.in", "twitter.com/KotakBankLtd", "twitter.com/KotakCares"]
   },
   {
   "name": "Nainital Bank",
@@ -73,7 +73,7 @@
   },
   {
   "name": "Yes Bank",
-  "urls": ["www.yesbank.in","yesbank.in","campaignweb.yesbank.in","twitter.com/yesbank"]
+  "urls": ["www.yesbank.in","yesbank.in","campaignweb.yesbank.in","twitter.com/YESBANK"]
   },
   {
   "name": "IDBI Bank",
@@ -101,11 +101,11 @@
   },
   {
   "name": "Indian Bank",
-  "urls": ["indianbank.in","www.indianbank.in","apps.indianbank.in","onlinellms.indianbank.in","indadvantage.com","www.indadvantage.com","twitter.com/myindianbank"]
+  "urls": ["indianbank.in","www.indianbank.in","apps.indianbank.in","onlinellms.indianbank.in","indadvantage.com","www.indadvantage.com","twitter.com/MyIndianBank"]
   },
   {
   "name": "Indian Overseas Bank",
-  "urls": ["www.iob.in","iob.in","www.iobnet.co.in","vkyc.iob.in","twitter.com/iobindia"]
+  "urls": ["www.iob.in","iob.in","www.iobnet.co.in","vkyc.iob.in","twitter.com/IOBIndia"]
   },
   {
   "name": "Punjab & Sind Bank",
