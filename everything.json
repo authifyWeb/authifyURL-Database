@@ -135,6 +135,77 @@
   {
   "name": "Government of India, Department of Post",
   "urls": ["www.indiapost.gov.in","indiapost.gov.in"]
+  },{
+  "name": "Amazon India",
+  "urls": ["www.amazon.in","amazon.in", "www.aboutamazon.in", "aboutamazon.in","press.aboutamazon.in","twitter.com/amazonin","twitter.com/primevideoin","brandservices.amazon.in","sell.amazon.in","affiliate-program.amazon.in","www.amazonpay.in","amazonpay.in","www.primevideo.com","primevideo.com"]
+  },
+  {
+  "name": "Flipkart India",
+  "urls": ["www.flipkart.com","flipkart.com","seller.flipkart.com","twitter.com/flipkartsellers","twitter.com/flipkartsupport","twitter.com/flipkart","twitter.com/workatflipkart","twitter.com/flipkartstories","stories.flipkart.com","www.flipkartcareers.com","advertising.flipkart.com","flipkartwholesale.com","www.flipkartwholesale.com","brands.flipkart.com","www.flipkartadsacademy.com"]
+  },
+  {
+  "name": "Myntra ",
+  "urls": ["myntra.com","www.myntra.com","twitter.com/myntra","careers.myntra.com","blog.myntra.com","life.myntra.com","partners.myntrainfo.com"]
+  },
+  {
+  "name": "Meesho ",
+  "urls": ["meesho.com","www.meesho.com","supplier.meesho.com","twitter.com/meesho_official","twitter.com/meesho_support"]
+  },
+  {
+  "name": "SnapDeal ",
+  "urls": ["www.snapdeal.com","snapdeal.com","sellers.snapdeal.com","twitter.com/snapdeal","impactatsnapdeal.com","blog.snapdeal.com","m.snapdeal.com"]
+  },
+  {
+  "name": "Jio Mart ",
+  "urls": ["www.jiomart.com","jiomart.com","twitter.com/jiomart","twitter.com/jiomart_support"]
+  },
+  {
+  "name": "Tata Cliq ",
+  "urls": ["tatacliq.com","www.tatacliq.com","luxury.tatacliq.com","twitter.com/tatacliqluxury","twitter.com/tatacliq"]
+  },
+  {
+  "name": "AJIO ",
+  "urls": ["ajio.com","www.ajio.com","luxe.ajio.com","twitter.com/ajiolife"]
+  },
+  {
+  "name": "LensKart India",
+  "urls": ["lenskart.com","www.lenskart.com","partners.lenskart.com","lenskartcareers.recruitee.com","stores.lenskart.com","twitter.com/lenskart_com"]
+  },
+  {
+  "name": "Nykaa",
+  "urls": ["nykaa.com","www.nykaa.com","twitter.com/mynykaa","support.nykaa.com"]
+  },
+  {
+  "name": "Nykaa Man",
+  "urls": ["nykaaman.com","www.nykaaman.com","support.nykaaman.com"]
+  },
+  {
+  "name": "Nykaa Fashion",
+  "urls": ["nykaafashion.com","www.nykaafashion.com","support.nykaafashion.com"]
+  },
+  {
+  "name": "First Cry",
+  "urls": ["firstcry.com","www.firstcry.com","parenting.firstcry.com","twitter.com/firstcryindia"]
+  },
+  {
+  "name": "BigBasket",
+  "urls": ["twitter.com/bigbasket_com","www.bigbasket.com","bigbasket.com","blog.bigbasket.com","bbdaily.com","www.bbdaily.com","bbinstant.bigbasket.com","careers.bigbasket.com"]
+  },
+  {
+  "name": "Purplle",
+  "urls": ["purplle.com","www.purplle.com","twitter.com/letspurplle"]
+  },
+  {
+  "name": "PharmEasy",
+  "urls": ["twitter.com/pharmeasyapp","pharmeasy.in","pharmeasy.typeform.com"]
+  },
+  {
+  "name": "1mg",
+  "urls": ["1mg.com","www.1mg.com","twitter.com/1mgofficial","partners.1mg.com"]
+  },
+  {
+  "name": "Netmeds",
+  "urls": ["netmeds.com","www.netmeds.com","twitter.com/netmeds"]
   }	
 	
 ]
