@@ -2,9 +2,14 @@
 "copyright": "authifyWeb https://github.com/authifyWeb",
 "source":[
 {
+  "name": "authifyWeb",
+  "urls": ["authifyweb.com","www.authifyweb.com","url.authifyweb.com","chat.authifyweb.com","now.authifyweb.com" ]
+},
+{
 "name": "Internet Freedom Foundation",
 "urls": ["internetfreedom.in","saveourprivacy.in","savetheinternet.in","patrakardefence.in","panoptic.in","twitter.com/internetfreedom","forum.internetfreedom.in" ]
-},{
+},
+  {
   "name": "Axis Bank",
   "urls": ["www.axisbank.com","axisbank.com","omni.axisbank.co.in","application.axisbank.co.in","digiserv.axisbank.com","branch.axisbank.com","grabdeals.axisbank.com","twitter.com/axisbank" ]
   },
@@ -135,7 +140,8 @@
   {
   "name": "Government of India, Department of Post",
   "urls": ["www.indiapost.gov.in","indiapost.gov.in"]
-  },{
+  },
+  {
   "name": "Amazon India",
   "urls": ["www.amazon.in","amazon.in", "www.aboutamazon.in", "aboutamazon.in","press.aboutamazon.in","twitter.com/amazonin","twitter.com/primevideoin","brandservices.amazon.in","sell.amazon.in","affiliate-program.amazon.in","www.amazonpay.in","amazonpay.in","www.primevideo.com","primevideo.com"]
   },
