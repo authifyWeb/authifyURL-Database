@@ -212,7 +212,43 @@
   {
   "name": "Netmeds",
   "urls": ["netmeds.com","www.netmeds.com","twitter.com/netmeds"]
-  }	
+  },
+  {
+  "name": "VLC-VideoLAN",
+  "urls": ["www.videolan.org","videolan.org","get.videolan.org","planet.videolan.org","wiki.videolan.org","forum.videolan.org","downloads.videolan.org","download.videolan.org","code.videolan.org"]
+  },
+  {
+  "name": "7-ZIP",
+  "urls": ["7-zip.org","www.7-zip.org","7-zip.fr","www.7-zip.fr","7zip.idfoss.org","sevenzip.osdn.jp"]
+  },
+  {
+  "name": "OBS-Open Broadcaster Software",
+  "urls": ["obsproject.com","www.obsproject.com","ideas.obsproject.com","twitter.com/obsproject"]
+  },
+  {
+  "name": "GIMP",
+  "urls": ["gimp.org","www.gimp.org","twitter.com/gimp_official","download.gimp.org"]
+  },
+  {
+  "name": "Inkscape",
+  "urls": ["inkscape.org","www.inkscape.org","chat.inkscape.org","lists.inkscape.org","twitter.com/inkscape","wiki.inkscape.org"]
+  },
+  {
+  "name": "Audacity",
+  "urls": ["audacityteam.org","www.audacityteam.org","support.audacityteam.org","manual.audacityteam.org","forum.audacityteam.org","twitter.com/getaudacity"]
+  },
+  {
+  "name": "Blender",
+  "urls": ["www.blender.org","blender.org","store.blender.org","fund.blender.org","twitter.com/blender","www.instagram.com/blender.official","conference.blender.org","www.facebook.com/YourOwn3DSoftware","builder.blender.org","developer.blender.org","studio.blender.org","opendata.blender.org","docs.blender.org","wiki.blender.org","devtalk.blender.org","code.blender.org"]
+  },
+  {
+  "name": "Rufus",
+  "urls": ["rufus.ie"]
+  },
+  {
+  "name": "Notepad++",
+  "urls": ["notepad-plus-plus.org","www.notepad-plus-plus.org","twitter.com/notepad_plus","community.notepad-plus-plus.org"]
+  }
 	
 ]
 }
