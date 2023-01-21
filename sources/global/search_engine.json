@@ -1,0 +1,37 @@
+[
+{
+"name":"Google Search",
+"urls":["www.google.co.uk","www.google.com","europe.google.com","www.google.co.in"]
+},
+{
+"name":"Microsoft Bing",
+"urls":["www.bing.com","bing.com"]	
+},
+{
+"name":"DuckDuckGo",
+"urls":["www.duckduckgo.com","duckduckgo.com"]	
+},
+{
+"name":"Brave Search",
+"urls":["search.brave.com"]	
+},
+{
+"name":"Yahoo Search",
+"urls":["search.yahoo.com","sports.yahoo.com","finance.yahoo.com","news.yahoo.com","us.search.yahoo.com","in.search.yahoo.com","uk.search.yahoo.com"]	
+}
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+]
