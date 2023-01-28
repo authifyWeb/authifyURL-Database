@@ -252,6 +252,10 @@
   {
   "name": "BitWarden",
   "urls": ["bitwarden.com","www.bitwarden.com","vault.bitwarden.com","community.bitwarden.com","twitter.com/bitwarden","www.reddit.com/r/bitwarden","github.com/bitwarden","www.youtube.com/channel/UCId9a_jQqvJre0_dE2lE_Rw","www.youtube.com/@bitwarden","www.youtube.com/bitwarden","www.facebook.com/bitwarden","www.instagram.com/bitwarden","www.twitch.tv/bitwardenlive"]
+  },
+  {
+  "name": "KeePass Password Safe",
+  "urls": ["keepass.info","www.keepass.info"]
   }
 	
 	
