@@ -34,6 +34,10 @@
   {
   "name": "Notepad++",
   "urls": ["notepad-plus-plus.org","www.notepad-plus-plus.org","twitter.com/notepad_plus","community.notepad-plus-plus.org"]
+  },
+  {
+  "name": "KeePass Password Safe",
+  "urls": ["keepass.info","www.keepass.info"]
   }
   
   
