@@ -38,6 +38,10 @@
   {
   "name": "KeePass Password Safe",
   "urls": ["keepass.info","www.keepass.info"]
+  },
+  {
+  "name": "KeePassXC Password Manager",
+  "urls": ["keepassxc.org","www.keepassxc.org","github.com/keepassxreboot","twitter.com/KeePassXC"]
   }
   
   
