@@ -42,7 +42,11 @@
   {
   "name": "KeePassXC Password Manager",
   "urls": ["keepassxc.org","www.keepassxc.org","github.com/keepassxreboot","twitter.com/KeePassXC"]
-  }
+  },
+  {
+  "name": "Signal Private Messenger",
+  "urls":["signal.org","www.signal.org","support.signal.org","twitter.com/signalapp","www.instagram.com/signal_app","community.signalusers.org","github.com/signalapp"]
+}
   
   
 ]
