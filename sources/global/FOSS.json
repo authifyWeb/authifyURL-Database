@@ -46,7 +46,11 @@
   {
   "name": "Signal Private Messenger",
   "urls":["signal.org","www.signal.org","support.signal.org","twitter.com/signalapp","www.instagram.com/signal_app","community.signalusers.org","github.com/signalapp"]
-}
+  },
+  {
+	"name":"Aegis Authenticator - 2FA",
+	"urls":["getaegis.app","www.buymeacoffee.com/beemdevelopment","github.com/beemdevelopment"]
+  }
   
   
 ]
