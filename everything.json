@@ -260,8 +260,15 @@
   {
   "name": "KeePassXC Password Manager",
   "urls": ["keepassxc.org","www.keepassxc.org","github.com/keepassxreboot","twitter.com/KeePassXC"]
-  }
-	
+  },
+  {
+  "name":"Google",
+  "urls":["www.google.com","twitter.com/google"]
+  },
+  {
+  "name":"DuckDuckGo",
+  "urls":["duckduckgo.com","twitter.com/duckduckgo"]
+  }	
 	
 ]
 }
