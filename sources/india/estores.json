@@ -70,7 +70,11 @@
   {
   "name": "Netmeds",
   "urls": ["netmeds.com","www.netmeds.com","twitter.com/netmeds"]
-  }
+  },
+  {
+  "name":"boAt Lifestyle",
+  "urls":["boat-lifestyle.com","www.boat-lifestyle.com","support.boat-lifestyle.com","dtc.boat-lifestyle.com"]
+	}
   
   
 ]
