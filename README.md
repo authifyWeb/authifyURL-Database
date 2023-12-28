@@ -1,6 +1,6 @@
 <h3>This repository is undergoing restructuring and few of the company data avaliable on authifyURL might not be available here. We'll make everything in order in the coming weeks.</h3>
 
-<h3>authifyURL Database is the data source used by <a href ="https://authifyweb.github.io/authifyURL/"> authifyURL</a> and <a href ="https://github.com/authifyWeb/authifyNow"> authifyNow</a> extensions.</h3> 
+<h3>authifyURL Database is the data source used  <a href ="https://github.com/authifyWeb/authifyNow"> authifyNow</a> extensions.</h3> 
 
 All the data is open and transparent for anyone to verify. 
 Please do not scrape this repo 
