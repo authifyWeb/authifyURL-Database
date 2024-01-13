@@ -1,6 +1,6 @@
-<h3>This repository is undergoing restructuring and few of the company data avaliable on authifyURL might not be available here. We'll make everything in order in the coming weeks.</h3>
+<h3>This repository won't be updated anymore. The data has been moved to mongoDB to serve through API. </h3>
 
-<h3>authifyURL Database is the data source used  <a href ="https://github.com/authifyWeb/authifyNow"> authifyNow</a> extensions.</h3> 
+v0.1.2 and v0.1.1 of authifyNow extension still uses this as the datasource. For a better and faster verification process, use the latest versions of authifyNow.
 
 All the data is open and transparent for anyone to verify. 
 Please do not scrape this repo 
